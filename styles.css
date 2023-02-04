@@ -1,6 +1,9 @@
 body{
-    height: 10%;
+    height: 100vh;
     background-color: palevioletred;
-    color: white;
     margin: 0;
+}
+.ep2{
+    background-color: white;
+    height: 10%;
 }
